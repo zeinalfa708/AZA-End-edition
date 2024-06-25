@@ -1,0 +1,29 @@
+sent report or bug to zeinalfaDev@gmail.com
+
+-general-
+
+/help
+/command
+/live
+/name
+/gender
+/hobby
+/cmd
+/controlpanel
+
+-other-
+
+/new (what is the new update)
+/666
+/hello
+/hi
+/hack (must restart the program to quit)
+/reboot (must restart the program to quit)
+/cheat
+/code (find some code)
+
+-exit-
+
+/quit
+/exit
+/crash

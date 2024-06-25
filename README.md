@@ -9,5 +9,5 @@ AZA is a batch assistant that is not usefull. in other word, if you try the prog
 End edition - it's exactly the same (as normal version), but with very minor changes, and **AND WILL NOT GET A FURTHER UPDATE!**
 
 # Download:
-https://github.com/zeinalfa708/AZA-End-edition/tree/376094ebf5fe2e176bda46db6acdfdfc8c74ad15 [Github Rep]
+To download the END edition. just click the code, and then select "Download ZIP"
 https://drive.google.com/file/d/1SBz7RMg1b2iyw_LdhB_k2aXZg3O3THR-/view?usp=sharing [Normal version - google drive]

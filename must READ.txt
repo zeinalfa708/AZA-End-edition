@@ -1,5 +1,0 @@
-1. never type with space ( ) or it will crash!
-2. do not type with big letters or the it will not understand
-
-Edition:
-End edition - its exactly the same, but with very minor changes, and *AND WILL NOT GET A FURTHER UPDATE!*
